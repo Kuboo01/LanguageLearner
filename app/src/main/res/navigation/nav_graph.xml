@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/slovakFragment">
+
+    <fragment
+        android:id="@+id/slovakFragment"
+        android:name="com.example.languagelearner.SlovakFragment"
+        android:label="fragment_slovak"
+        tools:layout="@layout/fragment_slovak" >
+        <action
+            android:id="@+id/action_slovakFragment_to_foreignFragment"
+            app:destination="@id/foreignFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/foreignFragment"
+        android:name="com.example.languagelearner.ForeignFragment"
+        android:label="fragment_foreign"
+        tools:layout="@layout/fragment_foreign" />
+</navigation>

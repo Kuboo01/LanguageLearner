@@ -1,0 +1,49 @@
+Hello
+Good morning
+Good evening
+Good night
+How are you?
+Thank you
+Please
+Sorry
+Goodbye
+Yes
+No
+Maybe
+Where?
+When?
+Why?
+How?
+What?
+Who?
+Good
+Bad
+Warm
+Cold
+Food
+Water
+Help
+Doctor
+House
+Road
+Car
+Shop
+Night
+Day
+Love
+Family
+Friend
+Dog
+Cat
+Book
+School
+Work
+City
+Village
+Mountains
+River
+Lake
+Sea
+Sun
+Rain
+Snow

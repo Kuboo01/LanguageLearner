@@ -1,0 +1,49 @@
+Hallo
+Guten Tag
+Guten Abend
+Gute Nacht
+Wie geht es dir?
+Danke
+Bitte
+Entschuldigung
+Auf Wiedersehen
+Ja
+Nein
+Vielleicht
+Wo?
+Wann?
+Warum?
+Wie?
+Was?
+Wer?
+Gut
+Schlecht
+Warm
+Kalt
+Essen
+Wasser
+Hilfe
+Arzt
+Haus
+Straße
+Auto
+Geschäft
+Nacht
+Tag
+Liebe
+Familie
+Freund
+Hund
+Katze
+Buch
+Schule
+Arbeit
+Stadt
+Dorf
+Berge
+Fluss
+See
+Meer
+Sonne
+Regen
+Schnee

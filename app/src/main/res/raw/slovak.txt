@@ -1,0 +1,49 @@
+Ahoj
+Dobrý deň
+Dobrý večer
+Dobrú noc
+Ako sa máš?
+Ďakujem
+Prosím
+Prepáč
+Zbohom
+Áno
+Nie
+Možno
+Kde?
+Kedy?
+Prečo?
+Ako?
+Čo?
+Kto?
+Dobrý
+Zlý
+Teplo
+Zima
+Jedlo
+Voda
+Pomoc
+Lekár
+Dom
+Cesta
+Auto
+Obchod
+Noc
+Deň
+Láska
+Rodina
+Priateľ
+Pes
+Mačka
+Kniha
+Škola
+Práca
+Mesto
+Dedina
+Hory
+Rieka
+Jazero
+More
+Slnko
+Dážď
+Sneh

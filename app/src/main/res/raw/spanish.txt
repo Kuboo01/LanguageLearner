@@ -1,0 +1,49 @@
+Hola
+Buenos días
+Buenas tardes
+Buenas noches
+¿Cómo estás?
+Gracias
+Por favor
+Perdón
+Adiós
+Sí
+No
+Tal vez
+¿Dónde?
+¿Cuándo?
+¿Por qué?
+¿Cómo?
+¿Qué?
+¿Quién?
+Bueno
+Malo
+Calor
+Frío
+Comida
+Agua
+Ayuda
+Doctor
+Casa
+Camino
+Coche
+Tienda
+Noche
+Día
+Amor
+Familia
+Amigo
+Perro
+Gato
+Libro
+Escuela
+Trabajo
+Ciudad
+Pueblo
+Montañas
+Río
+Lago
+Mar
+Sol
+Lluvia
+Nieve
